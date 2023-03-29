@@ -1,0 +1,385 @@
+*{margin: 0;padding: 0;}
+
+.menu-principal{background: #149595;height: 47px;}
+
+.logo{width: 35px;padding: 5px;position: relative;
+left: 10px;height: 35px;}
+
+#imagem-banner {height: 699px;width: 1462px;filter: blur(1px);}
+
+#texto1{color: #149595; width: 752px;position: relative;font-size: 66px;
+margin: 0 auto;bottom: 430px;text-shadow: black 5px 2px 5px;}
+
+#texto1 p{color: white;font-size: 46px;width: 454px;position: relative;
+left: 10px;bottom: 10px;}
+
+#projeto{color: #149595;width: 197px;height: 44px;position: relative;
+margin: 0 auto;bottom: 170px;font-size: 25px;
+font-family: 'Times New Roman', Times, serif;}
+
+#projeto img{position: relative;right: 40px;bottom: 16px;}
+
+#conteudo1{width: 736px;height: 360px;background: #149595;position: relative;
+bottom: 138px;}
+
+#conteudo1 img{position: relative;width: 726px;height: 360px;
+left: 735px;}
+
+#conteudo2{width: 736px;height: 360px;background: #149595;position: relative;
+bottom: 135px;}
+    
+#conteudo2 img{position: relative;width: 726px;height: 360px;
+left: 735px;}
+
+#conteudo3{width: 736px;height: 360px;background: #149595;position: relative;
+bottom: 131px;}
+        
+#conteudo3 img{position: relative;width: 726px;height: 360px;
+left: 735px;}
+
+#titulo1{color: white; position: relative;
+bottom: 1158px;left: 29px;font-size: 30px;width: 266px;}
+
+#titulo1 p{width: 700px;height: 200px;font-size: 25px;position: relative;
+top: 15px;}
+
+#titulo2{color: white; position: relative;
+bottom: 1050px;left: 29px;font-size: 30px;width: 266px;width: 126px;height: 55px;}
+    
+#titulo2 p{width: 700px;height: 200px;font-size: 25px;position: relative;
+top: 15px;}
+
+#titulo3{color: white; position: relative;
+bottom: 730px;left: 29px;font-size: 30px;width: 266px;width: 263px;height: 55px;}
+        
+#titulo3 p{width: 700px;height: 200px;font-size: 25px;position: relative;
+top: 15px;}
+
+#transicao{width: 677px;height: 80px;position: relative;
+ bottom: 441px;left: 407px;}
+
+#sobre{width: 587px;height: 360px;position: relative;
+left: 820px;bottom: 360px;}
+
+#sobre h1{color: #149595;position: relative;
+right: 630px;width: 218px;bottom: 450px;font-size: 43px;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+text-decoration: underline;}
+
+#imagem-sobre{position: relative;bottom: 22px;}
+
+#icon-home{position: relative;bottom: 390px;right: 740px;}
+
+#sobre p{position: relative;right: 730px;bottom: 410px;color: #149595;
+font-size: 25px;width: 645px;}
+
+#trabalho{width: 587px;height: 360px;position: relative;
+bottom: 250px;left: 60px;}
+
+#trabalho h1{color: #149595;width: 200px;font-size: 43px; position: relative;
+left: 810px;bottom: 470px;text-decoration: underline;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
+
+#imagem-trabalho{position: relative;bottom: 2px;}
+
+#icon-medal{position: relative;left: 695px;bottom: 405px;}
+
+#trabalho p{position: relative;left: 700px;bottom: 426px;font-size: 25px;
+color: #149595;width: 635px;}
+
+#equipe h1{width: 154px;height: 52px;margin: 0 auto;position: relative;
+bottom: 170px;font-size: 40px;font-family: 'Times New Roman', Times, serif;
+color: #149595;}
+
+#equipe img{position: relative;bottom: 190px;left: 595px;}
+
+#equipe-conteudo{background: #149595; width: 1461px;height: 410px;position: relative;
+bottom: 145px;}
+
+#equipe-conteudo img{position: relative;left: 30px;top: 65px;}
+
+#equipe-conteudo p{color: white;font-size: 26px;
+width: 680px;margin: 0 auto;position: relative;bottom: 190px;;left: 330px;}
+
+#contato h1{color: #149595;width:195px;height: 47px;margin: 0 auto;
+font-size: 40px;position: relative;
+bottom: 87px;font-family: 'Times New Roman', Times, serif;}
+
+#contato img{position: relative;left: 595px;bottom: 100px;}
+
+#contato1{background: #149595; width: 100px;height: 120px;position: relative;
+margin: 0 auto;border-radius: 40px;bottom: 60px;}
+
+#contato1 img{position: relative;top: 30px;left: 19px;}
+
+#contato2{background: #149595; width: 100px;height: 120px;position: relative;
+border-radius: 40px;left: 320px;bottom: 175px;}
+
+#contato2 img{position: relative;top: 30px;left: 18px;}
+
+#contato3{background: #149595; width: 100px;height: 120px;position: relative;
+border-radius: 40px;left: 1043px;bottom: 300px;}
+
+#contato3 img{position: relative;top: 15px;left: 5px;}
+
+#linha1{background: #149595; position: relative;width: 262px;height: 5px;
+left: 420px;bottom: 360px;}
+
+#linha2{background: #149595; position: relative;width: 262px;height: 5px;
+left: 781px;bottom: 365px;}
+
+footer{background: #149595;width: 1461px;height: 42px;position: relative;
+margin-top: -15%;}
+
+#baixo-map{background: #149595; position: relative;width: 1461;height: 42px;
+top: 100px;}
+
+#map {position: relative;left: 1px;top: 40px;position: relative;
+width: 1646px;height: 80px;}
+
+#mapa-inner{width: 1146px;}
+
+@media (max-width: 414px) {
+    
+    .menu-principal{background: #149595;height: 45px;width: 993px;}
+
+     #texto1{position: relative;left: 270px;font-size: 40px;bottom: 281px;}
+
+     #texto1 p {color: white;font-size: 35px;width: 454px;
+     position: relative;left: 4px;bottom: 10px;}
+
+     #imagem-banner {height: 478px;width: 992px;filter: blur(1px);}
+
+     #conteudo1 {width: 517px;height: 289px;background: #149595;
+    position: relative;bottom: 138px;}
+
+    #conteudo1 img {position: relative; width: 474px;height: 289px;left: 517px;}
+
+    #conteudo2 {width: 517px;height: 289px;background: #149595;position: relative;
+    bottom: 135px;}
+
+    #conteudo2 img {position: relative;width: 487px;height: 292px;
+    left: 517px;}
+
+    #conteudo3 {width: 517px;height: 289px;background: #149595;position: relative;
+    bottom: 131px;}
+
+    #conteudo3 img {position: relative;width: 475px;height: 289px;left: 517px;}
+
+    #titulo1 {color: white;position: relative;bottom: 974px;left: 29px;
+    font-size: 27px;width: 266px;}
+
+    #titulo1 p {width: 470px; height: 212px;font-size: 21px;
+    position: relative;top: 15px;}
+
+    #titulo2 {color: white;position: relative;bottom: 947px;left: 29px;
+    font-size: 27px;width: 266px;}
+    
+    #titulo2 p {width: 470px; height: 212px;font-size: 21px;
+    position: relative;top: 15px;}
+
+    #titulo3 {color: white;position: relative;bottom: 706px;left: 29px;
+    font-size: 27px;width: 266px;}
+        
+    #titulo3 p {width: 470px; height: 212px;font-size: 21px;
+    position: relative;top: 15px;}
+
+    #projeto {color: #149595;width: 197px;height: 44px;position: relative;
+     margin: 0 auto;bottom: 128px;font-size: 15px;font-family: 'Times New Roman', Times, serif;
+     left: 346px;}
+
+     #projeto img {position: relative;right: 22px;bottom: 10px;
+     width: 163px;}
+
+     #transicao {width: 567px;height: 89px;position: relative;
+      bottom: 466px;left: 243px;}
+
+      #imagem-sobre {position: relative;bottom: 93px;width: 625px;
+        right: 632px;}
+
+        #sobre h1 {color: #149595;width: 101px;font-size: 39px;
+        position: relative;right: 543px; bottom: 121px;text-decoration: underline;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
+
+        #icon-home {position: relative;right: 626px;
+        bottom: 70px;width: 58px;}
+
+        #sobre p {position: relative;right: 623px; bottom: 94px;
+        font-size: 25px;color: #149595;width: 653px;}
+
+        #imagem-trabalho {position: relative;bottom: -211px;width: 625px;
+        left: 129px;}
+
+        #icon-medal {position: relative;left: 139px;top: 241px;width: 62px;}
+
+        #trabalho h1 {color: #149595;width: 200px;font-size: 39px;
+        position: relative;left: 224px;text-decoration: underline;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;top: 188px;}
+
+        #trabalho p {position: relative;left: 141px;font-size: 25px;
+        color: #149595;width: 653px;top: 218px;}
+
+        #equipe-conteudo {background: #149595;width: 992px;height: 255px;
+        position: relative;top: 406px;}
+
+        #equipe-conteudo img {position: relative;left: 28px;top: 54px;
+        width: 388px;}
+
+        #equipe-conteudo p {color: white;font-size: 19px;width: 514px;
+        position: relative;bottom: 101px;left: 206px;}
+
+        #equipe img {position: relative;left: 366px;top: 398px;}
+
+        #equipe h1 {width: 154px;height: 52px;position: relative;font-size: 34px;
+        font-family: 'Times New Roman', Times, serif;
+        color: #149595;top: 417px;left: 307px;}
+
+        #contato h1 {color: #149595;width: 195px;height: 47px;
+        font-size: 40px;position: relative;font-family: 'Times New Roman', Times, serif;
+        top: 448px;left: 319px;}
+
+        #contato img {position: relative;left: 385px;top: 437px;}
+
+        #contato1 {background: #149595;width: 100px;height: 120px;
+        position: relative;margin: 0 auto;border-radius: 40px;top: 445px;}
+
+        #contato2 {background: #149595;width: 100px;height: 120px;
+        position: relative;border-radius: 40px;left: 469px;top: 325px;}
+
+        #contato3 {background: #149595;width: 100px;height: 120px;
+        position: relative;border-radius: 40px;left: 807px;top: 208px;}
+
+        #linha1 {background: #149595;position: relative;width: 262px;
+        height: 5px;left: 219px;top: 145px;}
+
+        #linha2 {background: #149595;position: relative;width: 262px;
+        height: 5px;left: 562px;bottom: -142px;}
+
+        footer {background: #149595;width: 1523px;height: 21px;
+        position: relative;margin-top: 59%;}
+
+        #baixo-map {background: #149595;position: relative;width: 1461;
+        height: 19px;top: 100px;}
+}
+
+@media (max-width: 1280px) {
+    
+  .menu-principal {background: #149595;height: 45px;width: 1147px;}
+
+  #texto1 {position: relative;left: 27px;font-size: 52px;bottom: 331px;}
+
+   #texto1 p {color: white;font-size: 35px;width: 454px;
+   position: relative;left: 4px;bottom: 10px;}
+
+   #imagem-banner {height: 530px;width: 1146px;filter: blur(1px);}
+
+   #conteudo1 {width: 653px;height: 330px;background: #149595;
+   position: relative;bottom: 136px;}
+
+   #conteudo1 img { position: relative;width: 494px;
+   height: 330px;left: 652px;}
+
+   #conteudo2 {width: 653px;height: 330px;background: #149595;
+   position: relative;bottom: 131px;}
+
+   #conteudo2 img {position: relative;width: 494px;height: 330px;
+   left: 652px;}
+
+   #conteudo3 {width: 653px;height: 330px;background: #149595;
+   position: relative;bottom: 125px;}
+
+   #conteudo3 img {position: relative;width: 494px;height: 330px;left: 652px;}
+
+  #titulo1 {color: white;position: relative;bottom: 1077px;
+  left: 55px;font-size: 30px;width: 266px;}
+
+  #titulo1 p {width: 575px;height: 208px;font-size: 23px;position: relative;
+  top: 15px;}
+
+  #titulo2 {color: white;position: relative;bottom: 1012px;
+  left: 55px;font-size: 30px;width: 266px;}
+  
+  #titulo2 p {width: 575px;height: 212px;font-size: 23px;
+  position: relative;top: 15px;}
+
+  #titulo3 {color: white; position: relative;bottom: 734px;
+  left: 55px;font-size: 30px;width: 266px;}
+      
+  #titulo3 p {width: 575px;height: 212px;font-size: 23px;
+  position: relative;top: 28px;}
+
+  #projeto {color: #149595;width: 197px;height: 44px;
+  position: relative;margin: 0 auto; bottom: 151px;font-size: 23px;
+  font-family: 'Times New Roman', Times, serif;left: -21px;}
+
+   #projeto img {position: relative;right: 18px;bottom: 11px;
+   width: 211px;}
+
+   #transicao {width: 628px;height: 89px;position: relative;
+   bottom: 473px;left: 350px;}
+
+   #imagem-sobre {position: relative;bottom: 87px;width: 625px;right: 498px;}
+
+   #sobre h1 {color: rgb(20, 149, 149);width: 101px;font-size: 47px;
+   position: relative;right: 424px;bottom: 115px;text-decoration: underline;
+   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;}
+
+   #icon-home {position: relative;right: 499px;bottom: 56px;width: 58px;}
+
+   #sobre p {position: relative;right: 497px;bottom: 96px;
+   font-size: 26px;color: rgb(20, 149, 149);width: 726px;}
+
+   #imagem-trabalho {position: relative;width: 625px;top: 200px;left: 258px;}
+
+   #icon-medal {position: relative;left: 261px;width: 62px;bottom: -216px;}
+
+   #trabalho h1 {color: rgb(20, 149, 149);width: 200px;font-size: 47px;
+   position: relative;left: 350px;text-decoration: underline;
+   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+   bottom: -157px;}
+
+   #trabalho p {position: relative;left: 263px;font-size: 27px;
+   color: rgb(20, 149, 149);width: 710px;top: 175px;}
+
+   #equipe-conteudo {background: #149595;width: 1146px;height: 278px;
+   position: relative;top: 369px;}
+
+   #equipe-conteudo img {position: relative;left: 42px;top: 46px;width: 460px;}
+
+   #equipe-conteudo p {color: white;font-size: 22px;width: 594px;position: relative;
+   bottom: 143px;left: 254px;}
+
+      #equipe img {position: relative;left: 508px;top: 366px;}
+
+      #equipe h1 {width: 154px;height: 52px;position: relative;
+      font-size: 43px;font-family: "Times New Roman", Times, serif;
+      color: rgb(20, 149, 149);left: 4px;top: 381px;}
+
+      #contato h1 {color: #149595;width: 195px;height: 47px;
+      font-size: 43px;position: relative;font-family: 'Times New Roman', Times, serif;
+      left: 4px;top: 408px;}
+
+      #contato img {position: relative;left: 516px;top: 399px;}
+
+      #contato1 {background: #149595;width: 100px;height: 120px;
+      position: relative;border-radius: 40px;bottom: -414px;left: 8px;}
+
+      #contato2 {background: #149595;width: 100px;height: 120px;
+      position: relative;border-radius: 40px;left: 238px;
+      bottom: -295px;}
+
+      #contato3 {background: #149595;width: 100px;height: 120px;
+      position: relative;border-radius: 40px;left: 959px;bottom: -171px;}
+
+      #linha1 {background: #149595;position: relative;width: 262px;
+      height: 5px;left: 337px;bottom: -117px;}
+
+      #linha2 {background: #149595;position: relative;width: 262px;
+      height: 5px;left: 697px;bottom: -111px;}
+
+      footer {background: #149595;width: 1146px;height: 39px;
+      position: relative;margin-top: 20%;}
+
+    #baixo-map {background: #149595;position: relative;
+    width: 1146px;height: 39px;top: 100px;}
+}
