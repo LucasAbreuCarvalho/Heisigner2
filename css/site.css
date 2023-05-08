@@ -23,7 +23,7 @@ header.topo-page {
 }
 
 .banner {
-    background-image: url(http://127.0.0.1:5500/img/fundo%20primeira%20tela.png);
+    background-image: url(https://afc-heisigner.s3.us-east-2.amazonaws.com/Heisigner/img/fundo+primeira+tela.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 700px;
@@ -239,39 +239,17 @@ div#whatsapp {
 
 @media (max-width: 1280px) {
 
-    .logo-topo img {padding: 14%;}
+    header.topo-page {display: flex;align-items: baseline;}
 
-    header.topo-page {background-color: #149595;display: flex;
-    justify-content: space-between;flex-direction: row;align-items: baseline;}
+    h1.titulo-banner {font-size: 5em;margin-bottom: -181px;}
 
-    h1.titulo-banner {color: #149595;text-align: center;font-size: 5em;font-weight: bold;
-    font-family: Judson;text-shadow: black 3px 1px 0px;margin-bottom: -181px;}
+    span.subtitle-banner {font-size: 2.2em;}
 
-    span.subtitle-banner {color: #fff;font-size: 2.2em;text-shadow: black 3px 1px 0px;}
-
-    .banner {
-        background-image: url(http://127.0.0.1:5500/img/fundo%20primeira%20tela.png);
-        background-repeat: no-repeat;
-        background-size: cover;
-        height: 440px;
-        max-height: 80%;
-        text-align: center;
-        align-content: space-around;
-        display: flex;
-        flex-direction: column;
-        flex-wrap: nowrap;
-        align-items: center;
-        justify-content: space-evenly;  }
+    .banner {height: 440px;}
 
         h2.title-projetos {font-size: 0.8em;margin-bottom: -2%;padding-top: 1%;}
 
-        img#projeto-under {margin-bottom: 1%;}
-
-        .sob-medida {display: flex;background-color: #149595;margin-bottom: 1%;
-        align-items: flex-start;flex-wrap: nowrap;flex-direction: row;}
-
-        .sob-medida-txt {display: flex;color: #fff;padding: 5%;
-        flex-direction: column;align-items: flex-start;}
+        img#projeto-under {margin-bottom: 1%;}    
 
         .sobmedida-img {width: 427px;}
 
@@ -279,19 +257,13 @@ div#whatsapp {
 
         #sob-medida-title {font-size: 1.3em;}
 
-        #conteudo-sob-medida{font-size: 1em;}
-
         #planta-title{font-size: 1.3em;}
-
-        #conteudo-planta{font-size: 1em;}
 
         .planta-img{width: 427px;}
 
         .na-pnata-txt{display: flex;color: #fff;padding: 1%;flex-direction: column;align-items: flex-start;}
 
         #lorem-title{font-size: 1.3em;}
-
-        #conteudo-lorem{font-size: 1em;}
 
         .lorem-img{width: 427px;}
 
@@ -302,105 +274,80 @@ div#whatsapp {
         .sob-medida-txt {display: flex;color: #fff;padding: 1%;
         flex-direction: column;align-items: flex-start;}
 
-        #sobre-title {padding-left: 4%;font-size: 0.6em;padding-top: 5%;}
+        #sobre-title {font-size: 0.6em;padding-top: 5%;}
 
-        #sobre-text {color: #149595;font-size: 0.4em;padding-left: 4%;padding-top: 2%;}
+        #sobre-text {font-size: 0.4em;}
 
         .sobre-nos {display: flex;flex-direction: column-reverse;align-items: center;}
 
         .trabalhos{display: flex;flex-direction: column;align-items: center;}
 
-        #img-trabalhos{margin-top: 3%;}
-
         #icon-trabalho {padding-right: 13%;}
 
         #trabalhos-title {padding-top: 4%;padding-left: 18%;font-size: 0.6em;}
 
-        #trabalhos-text{color: #149595;font-size: 0.4em;
-        padding-left: 4%;padding-top: 2%;}
+        #trabalhos-text{font-size: 0.4em;}
 
-        .equipe-div {display: flex;margin-bottom: 1%;align-items: center;flex-direction: column;}
+        .text-div-equipe {padding-top: 3%;}
 
-        .text-div-equipe {padding-top: 3%;color: #149595;}
-
-        .equipe {display: flex;background: #149595;padding-top: 5%;
-        padding-bottom: 5%;font-size: 1.5em;color: #fff;
-        flex-direction: column;flex-wrap: nowrap;}
+        .equipe {display: flex;flex-direction: column;flex-wrap: nowrap;}
 
         p#equipe-text {padding-left: 5%;padding-right: 3%;padding-top: 2%;}
 
-        #imagem-equipe {padding-left: 0%;}
-
-        .contato-div {display: flex;align-items: center;margin-bottom: 1%;flex-direction: column;}   
+        #imagem-equipe {padding-left: 0%;} 
         
-        .text-div-contato {padding-top: 3%;color: #149595;}
-
-        .div-map {background: #149595;padding-top: 5%;padding-bottom: 5%;
-        margin-top: 3%;display: flex;
-        flex-direction: column;}
-
 }
 
 @media (max-width: 803px) {
 
-    header.topo-page {background-color: #149595;display: flex;flex-direction: row;
-    justify-content: space-between;}
-
     .logo-topo img {width: 95%;}
 
-    .menu a{font-size: 0.7em;}
-
-    .banner {height: 345px;display: flex;flex-direction: column;align-items: center;}
+    .banner {height: 345px;}
 
     h1.titulo-banner {font-size: 3em;margin-bottom: -135px;}
 
     span.subtitle-banner {font-size: 1em;}
 
-    .div-title-projetos{display: flex;flex-direction: column;align-items: center;}
-
-    h2.title-projetos {font-size: 0.3em;margin-bottom: -2%;padding-top: 3%;}
+    h2.title-projetos {font-size: 0.4em;margin-bottom: -2%;padding-top: 3%;}
 
     img#projeto-under {width: 35%;margin-top: 1%;}
 
-    .sob-medida {display: flex;background-color: #149595;margin-bottom: 1%;
+    .sob-medida {display: flex;margin-bottom: 1%;
     flex-direction: column-reverse;align-items: stretch;}
 
-    .sob-medida-txt {display: flex;color: #fff;
-    padding: 3%;flex-direction: column;align-items: flex-start;}
+    .sob-medida-txt {display: flex;padding: 3%;}
 
-    #sob-medida-title {font-size: 1em;}
+    #sob-medida-title {font-size: 0.9em;}
     
     #conteudo-sob-medida {font-size: 0.6em;}
 
     .sobmedida-img {width: 145%;height: 173px;}
 
-    .na-planta{display: flex;background-color: #149595;margin-bottom: 1%;
+    .na-planta{display: flex;margin-bottom: 1%;
     flex-direction: column-reverse;align-items: stretch;margin-top: 2%;}
 
     .planta-img{width: 100%;height: 173px;}
 
-    #planta-title {font-size: 1em;}
+    #planta-title {font-size: 0.9em;}
 
     #conteudo-planta {font-size: 0.6em;}
 
-    .na-pnata-txt {display: flex;color: #fff;padding: 3%;flex-direction: column;
+    .na-pnata-txt {display: flex;padding: 3%;flex-direction: column;
      align-items: flex-start;}
 
-     .lorem{display: flex;background-color: #149595;margin-bottom: 1%;
+     .lorem{display: flex;margin-bottom: 1%;
     flex-direction: column-reverse;align-items: stretch;margin-top: 2%;}
 
     .lorem-img {width: 100%;height: 173px;}
 
-    .lorem-txt {display: flex;color: #fff;padding: 3%;
+    .lorem-txt {display: flex;padding: 3%;
     flex-direction: column;align-items: flex-start;}
 
-    #lorem-title {font-size: 1em;}
+    #lorem-title {font-size: 0.9em;}
 
     #conteudo-lorem {font-size: 0.6em;}
 
     #transicao {width: 60%;margin-top: 4%;}
-
-    .divisoria {display: flex;justify-content: center;}
 
     #img-sobre{width: 80%;}
 
@@ -410,7 +357,7 @@ div#whatsapp {
     
     #icon-home{width: 12%;}
 
-    #sobre-text {color: #149595;font-size: 0.2em;padding-right: 5%;padding-left: 7%;}
+    #sobre-text {font-size: 0.2em;padding-right: 5%;padding-left: 7%;}
 
     #img-trabalhos{width: 80%;}
 
@@ -420,22 +367,19 @@ div#whatsapp {
 
     #icon-trabalho{width: 23%;}
 
-    #trabalhos-text{color: #149595;font-size: 0.2em;padding-right: 5%;padding-left: 7%;}
+    #trabalhos-text{font-size: 0.2em;padding-right: 5%;padding-left: 7%;}
 
-    .text-div-equipe {font-size: 0.8em;margin-bottom: -2%;padding-top: 3%;}
+    .text-div-equipe {font-size: 1em;margin-bottom: -2%;padding-top: 3%;}
 
     #equipe-under {width: 35%;margin-top: 1%;}
-
-    .equipe-div {display: flex;margin-bottom: 2%;flex-direction: column;align-items: center;}
 
     #imagem-equipe {width: 70%;}
 
     p#equipe-text {padding-left: 7%;padding-right: 7%;padding-top: 4%;font-size: 0.3em;}
 
-    .equipe {display: flex;background: #149595;padding-top: 5%;padding-bottom: 5%;
-    font-size: 1.5em;color: #fff;flex-direction: column;align-items: center;}
+    .equipe {display: flex;padding-top: 5%;padding-bottom: 5%;flex-direction: column;align-items: center;}
 
-    .text-div-contato {font-size: 0.8em;margin-bottom: -2%;padding-top: 3%;}
+    .text-div-contato {font-size: 1em;margin-bottom: -2%;padding-top: 3%;}
 
     #contato-under{width: 35%;margin-top: 1%;}
 
